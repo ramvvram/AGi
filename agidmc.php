@@ -20,7 +20,7 @@ About us
             <div class="col-lg-6 col-12">
                 <p class="description_text text-justify text-box">
                     This is an end to end solutions for all travel related activities. It caters to the B2B segment. It helps you make bookings on an individual basis or create packages as a whole. <br>
-                    Sounds too common right? What’s the secret sauce?<br>
+                    Sounds too common right?  What’s the secret sauce?<br>
                     The suggestions and recommendations provided to the users are based on a powerful in house developed recommendation engine that advices you based on past bookings, similar demographics and taking into account the general market trends.<br>
                     The dashboard provides user with regular insights about the market trends and the ongoing conditions, both about the destination and in the online market place.
                 </p>
